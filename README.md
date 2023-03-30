@@ -1,7 +1,9 @@
 # RemoteLeader
-RemoteLeader is a program for day-to-day control of remote work management. This is a demo version of it.
+RemoteLeader is a remote work management application. 
+
+This is a presentation version of it.
 
 Username : Admin
 Password: Admin1234
 
-English GUI - Java 8
+Version 1.51 has an English GUI
